@@ -1,0 +1,14 @@
+{
+    "name": "ocstart",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/core-contract_access": true,
+        "/category/nft/core-composable_nft": true,
+        "/category/nft/core-composable_nft/template": "collectible",
+        "/category/collection/core-entity": true,
+        "/category/file_storage/core-ipfs": true,
+        "/category/file_storage/core-ipfs/mode": "multiple"
+    }
+}
